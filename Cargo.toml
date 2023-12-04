@@ -80,7 +80,7 @@ urlencoding = "2.1"
 
 tracing = "0.1"
 tracing-subscriber = { version = "0.3", features = ["env-filter"] }
-mlua = { version = "0.9.1", features = ["luau", "luau-jit", "serialize"] }
+mlua = { version = "0.9.2", features = ["luau", "luau-jit", "serialize"] }
 tokio = { version = "1.24", features = ["full", "tracing"] }
 os_str_bytes = { version = "6.4", features = ["conversions"] }
 
